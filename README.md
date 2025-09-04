@@ -1,4 +1,6 @@
 # mon-portfolio
+Portfolio en construction — documentation de mon apprentissage en développement web
+
 
 
 # un titre clair: Portfolio en developpement - Bamba Ndiaye
