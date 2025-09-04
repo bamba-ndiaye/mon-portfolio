@@ -35,13 +35,13 @@ Dossiers futurs :
 🚀 Démo en ligne
 
 👉 Lien GitHub Pages
- (sera activé plus tard)
+ (https://github.com/bamba-ndiaye/mon-portfolio.git) 
 
 👤 Auteur
 
 Bamba Ndiaye
 
-📧 Email : (mets ton adresse si tu veux)
+📧 Email : (bambandiaye386@gmail.com)
 
 💼 LinkedIn : (mets le lien si tu as un compte)
 
